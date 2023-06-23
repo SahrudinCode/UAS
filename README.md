@@ -1,2 +1,2 @@
-# SignLanguageDetectionUsingML
-SignLanguageDetectionUsingML
+# Bahasa isyarat (sign leangue)
+Bahasa Isyarat
